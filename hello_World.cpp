@@ -11,5 +11,5 @@
 int main() {
 	cout << "Hello World";
 	int a	=	5;
-	double b=	10.0;
+	double b	=	10.0;
 }
