@@ -9,7 +9,7 @@
 #include <iostream>
 
 int main() {
-	cout << "Hello World";
-	int a	=	5;
-	double b	=	10.0;
+        cout << "Hello World";
+        int a   =       5;
+        double b=       5.0;
 }
